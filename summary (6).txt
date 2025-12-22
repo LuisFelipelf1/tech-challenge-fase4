@@ -1,0 +1,18 @@
+TECH CHALLENGE 4
+======================================
+
+Total de frames analisados: 3326
+Total de faces analisadas: 4452
+
+Atividades detectadas (contagem):
+ - parado: 2636
+ - movimento leve: 670
+ - movimento intenso: 20
+
+Emocoes detectadas (contagem):
+ - sad: 1283
+ - neutral: 516
+ - happy: 1129
+ - angry: 1137
+ - fear: 222
+ - surprise: 165
