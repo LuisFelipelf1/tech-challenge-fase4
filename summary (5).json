@@ -1,0 +1,17 @@
+{
+    "total_frames": 3326,
+    "total_faces_analyzed": 4452,
+    "activities": {
+        "parado": 2636,
+        "movimento leve": 670,
+        "movimento intenso": 20
+    },
+    "emotions": {
+        "sad": 1283,
+        "neutral": 516,
+        "happy": 1129,
+        "angry": 1137,
+        "fear": 222,
+        "surprise": 165
+    }
+}
