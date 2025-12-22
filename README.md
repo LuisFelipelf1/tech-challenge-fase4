@@ -15,7 +15,7 @@ A aplicação realiza:
 
 ## 👤 Autor
 - **Nome:** Luís Felipe Alves Silva  
-- **Modalidade:** Projeto Individual  
+- Entrega individual – FIAP | Pós IA para Devs  
 - RM: 363734
 ---
 
