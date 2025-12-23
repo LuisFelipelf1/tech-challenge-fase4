@@ -97,7 +97,7 @@ O vídeo de demonstração apresenta:
 - Atividade detectada exibida na parte inferior do vídeo
 
 📺 **Link do vídeo no YouTube:**  
-*(inserir link aqui)*
+https://youtu.be/hG_JM4McwIA
 
 ---
 
